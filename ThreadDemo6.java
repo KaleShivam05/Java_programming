@@ -8,7 +8,7 @@ class Demo extends Thread
            System.out.println("Inside thread : "+Thread.currentThread().getName()+" : "+i);
         }
     }
-}
+}  
 
 class ThreadDemo6
 {
