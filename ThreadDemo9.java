@@ -24,7 +24,7 @@ class Customer extends Thread
     public Customer(BankAccount obj, String Name)
     {
         super(Name);
-        this.bobj = obj;
+        this.bobj = obj;  
     }
 
     public void run()
