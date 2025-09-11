@@ -15,9 +15,10 @@ class Collections1
 
         System.out.println("Data traversal using for - each");
 
-        for(int no : Arr)/////////////
+        for(int no : Arr)
         {
             System.out.println(no);
         }
     }
+
 }
