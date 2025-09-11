@@ -22,7 +22,7 @@ class Collections5
          System.out.println(iobj.next());
        }
 
-
        System.out.println(aobj.size());
     }
+
 }
