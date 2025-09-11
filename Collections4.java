@@ -20,12 +20,11 @@ class Collections4
         if(aobj.contains(51))
         {
             System.out.println("Element is present");
-        }
-
+        }  
         
-
         aobj.clear();
 
         System.out.println(aobj);
     }
+
 }
